@@ -51,7 +51,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 30px;
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
     font-weight: 400;
 	color: #111;
 }
@@ -154,9 +154,9 @@ blockquote strong {
 }
 .site-logo a.brand {
 	color: #111;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 32px;
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
 	font-weight: 900;
 	margin-top: 20px;
 }
@@ -199,7 +199,7 @@ blockquote strong {
 	font-size: 12px;
 	letter-spacing: 1px;
     color: #444;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 }
 
@@ -347,7 +347,7 @@ hr.bold {
 .section-heading h2 {
 	font-size: 24px;
 	letter-spacing: 1px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	margin-bottom: 10px;
 }
 
@@ -421,7 +421,9 @@ hr.bold {
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 40px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { font-size: 24px; font-weight: 400; color: #fefefe; }
-.learn-more-btn { background: rgba(255, 255, 255, 0.05); padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #fff; text-transform: uppercase; letter-spacing: 1px; display: inline-block; -webkit-box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); -moz-box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); margin: 60px 0 0; font-weight: bold; }
+.learn-more-btn { background: rgba(255, 255, 255, 0.05); padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #fff;
+	/*text-transform: uppercase; */
+	letter-spacing: 1px; display: inline-block; -webkit-box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); -moz-box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); box-shadow: 0px 3px 0px 0px rgba(255, 255, 255, 0.1); margin: 60px 0 0; font-weight: bold; }
 .learn-more-btn:hover, .learn-more-btn:focus { background: rgba(0, 0, 0, 0.8); color: #fff; }
 
 
@@ -537,7 +539,7 @@ hr.bold {
 .header-text h2 span {
 	padding: 10px;
 	color: #fff;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 .header-text h3 span {
@@ -590,7 +592,7 @@ hr.bold {
 }	
 
 .service-desc h5 {
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	color: #666;
 	font-size: 18px;
@@ -630,7 +632,7 @@ hr.bold {
 form#contact-form .form-group label {
 	text-align: left !important;
 	display: block;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 16px;
 }
 form#contact-form input,form#contact-form select,form#contact-form textarea {
@@ -691,7 +693,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	font-size: 18px;
 	font-weight: 700;
 	margin-bottom: 20px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 .sidebar .widget {
 	margin-bottom: 50px;
@@ -878,7 +880,7 @@ footer .social-widget ul.team-social li a {
 	outline: none;
 	color: #fff;
 	text-decoration: none;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 1px;
 	font-weight: 400;	
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
