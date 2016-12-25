@@ -1,12 +1,19 @@
 body {
-    background-color: #fff !important;
+    background-color: #fff;
+    margin: 0px;
+    /*overflow: hidden;*/
+    font-size:13px;
+    /*text-align:center;*/
+    /*font-weight: bold;*/
+    text-align:center;
+    font-family: "PT Serif", "微软雅黑 Light" !important;
 }
 
-#box-works {
+#box-works, #box-CV {
     height: calc(100% - 101px);
     overflow: auto;
     padding-top: 50px;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 }
 
 .box-works-pic-row {
@@ -73,3 +80,22 @@ body {
     background-color: #c0c0c0;
 }
 /* 滚动条样式 */
+
+
+/* Works 页面 */
+.img-text-synopsis {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+/* Work详情 */
+.nivo-lightbox-theme-default .nivo-lightbox-title-wrap { padding: 0px 180px !important;  text-align: right;}
+.nivo-lightbox-theme-default .nivo-lightbox-title {
+    /*font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+    font-style: normal;
+    font-weight: normal;
+    background: transparent !important;
+    color: #fff;
+    padding: 7px 15px;
+    border-radius: 30px;
+}
