@@ -28,7 +28,9 @@ a {
 }
 
 .index-address {
-    margin-top: 250px;
+    position: absolute;
+    bottom: 120px;
+    right: 40px;
 }
 
 .index-address h5 {

@@ -89,7 +89,10 @@ body {
 }
 
 /* Work详情 */
-.nivo-lightbox-theme-default .nivo-lightbox-title-wrap { padding: 0px 180px !important;  text-align: right;}
+.nivo-lightbox-theme-default .nivo-lightbox-title-wrap {
+    padding: 0px 10% !important;
+    text-align: right;
+}
 .nivo-lightbox-theme-default .nivo-lightbox-title {
     /*font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
     font-style: normal;
