@@ -418,7 +418,7 @@ hr.bold {
 ============================ */
 
 .hero { background: url(../img/honghuang1-bg.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
-.hero h1 { font-size: 50px; margin: 40px 0 10px; font-weight: 900; color: #fff;}
+.hero h1 { font-size: 40px; margin: 40px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { font-size: 24px; font-weight: 400; color: #fefefe; }
 .learn-more-btn { background: rgba(255, 255, 255, 0.05); padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #fff;
