@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fa5f7cc-cc03-4fc9-a0fd-a6576d2d962c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/winding/winding_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/winding/winding_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/winding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/rainbow/rainbow_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/rainbow/rainbow_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/rainbow.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works.html" afterPath="$PROJECT_DIR$/works.html" />
     </list>
@@ -121,22 +121,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="101" column="50" lean-forward="false" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
-              <folding>
-                <element signature="e#1427#1433#0" expanded="true" />
-                <element signature="e#1433#1439#0" expanded="true" />
-                <element signature="e#1500#1506#0" expanded="true" />
-                <element signature="e#1506#1512#0" expanded="true" />
-                <element signature="e#11862#11868#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="7day.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Works/7day.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -199,21 +183,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="works.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="works.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="909">
-              <caret line="102" column="69" lean-forward="false" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
+            <state relative-caret-position="1095">
+              <caret line="111" column="68" lean-forward="false" selection-start-line="111" selection-start-column="68" selection-end-line="111" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="winding.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="winding.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Works/winding.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+            <state relative-caret-position="31">
+              <caret line="64" column="46" lean-forward="false" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rainbow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Works/rainbow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="944">
+              <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -264,6 +258,7 @@
       <find>img/works/qiongzhou/qiongzhou</find>
       <find>img/works/room/room</find>
       <find>Room73201 2015 Photography（Series 1-70） Inkjet print on archival paper</find>
+      <find>img/works/winding/winding</find>
     </findStrings>
     <replaceStrings>
       <replace>/br</replace>
@@ -280,6 +275,7 @@
       <replace>img/works/foreworld/foreworld</replace>
       <replace>img/works/mysterious/mysterious</replace>
       <replace>Mysterious Concerns and Secret Tenderness 2015 3-Channel Video Color/Sound/3’12”</replace>
+      <replace>img/works/rainbow/rainbow</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -316,8 +312,9 @@
         <option value="$PROJECT_DIR$/Works/room.html" />
         <option value="$PROJECT_DIR$/Works/foreworld.html" />
         <option value="$PROJECT_DIR$/Works/mystrious.html" />
-        <option value="$PROJECT_DIR$/works.html" />
         <option value="$PROJECT_DIR$/Works/winding.html" />
+        <option value="$PROJECT_DIR$/Works/rainbow.html" />
+        <option value="$PROJECT_DIR$/works.html" />
       </list>
     </option>
   </component>
@@ -422,6 +419,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rainbow" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -566,7 +585,7 @@
       <workItem from="1482845342759" duration="3988000" />
       <workItem from="1482928879603" duration="6419000" />
       <workItem from="1483058610358" duration="5000" />
-      <workItem from="1483528223716" duration="8226000" />
+      <workItem from="1483528223716" duration="8711000" />
     </task>
     <task id="LOCAL-00001" summary="20160726">
       <created>1469524143325</created>
@@ -722,18 +741,25 @@
       <option name="project" value="LOCAL" />
       <updated>1483538020136</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="风的轨迹">
+      <created>1483538476562</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1483538476562</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73519000" />
+    <option name="totallyTimeSpent" value="74004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16931638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1645469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16931638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1645469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -802,14 +828,14 @@
     <MESSAGE value="night" />
     <MESSAGE value="foreworld" />
     <MESSAGE value="mysterious" />
-    <option name="LAST_COMMIT_MESSAGE" value="mysterious" />
+    <MESSAGE value="风的轨迹" />
+    <option name="LAST_COMMIT_MESSAGE" value="风的轨迹" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/cloud/cloud.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1108,7 +1134,7 @@
         <state relative-caret-position="-207">
           <caret line="93" column="51" lean-forward="false" selection-start-line="93" selection-start-column="51" selection-end-line="93" selection-end-column="51" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1190,18 +1216,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works.html">
+    <entry file="file://$PROJECT_DIR$/Works/winding.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="909">
-          <caret line="102" column="69" lean-forward="false" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
+        <state relative-caret-position="31">
+          <caret line="64" column="46" lean-forward="false" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Works/winding.html">
+    <entry file="file://$PROJECT_DIR$/Works/rainbow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        <state relative-caret-position="944">
+          <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="111" column="68" lean-forward="false" selection-start-line="111" selection-start-column="68" selection-end-line="111" selection-end-column="68" />
           <folding />
         </state>
       </provider>
