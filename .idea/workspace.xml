@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fa5f7cc-cc03-4fc9-a0fd-a6576d2d962c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/7day.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/qiongzhou/qiongzhou_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/qiongzhou.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/CloseToIt.html" afterPath="$PROJECT_DIR$/Works/CloseToIt.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works.html" afterPath="$PROJECT_DIR$/works.html" />
     </list>
     <ignored path="wangman.iws" />
@@ -136,14 +143,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7day.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7day.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Works/7day.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="757">
+            <state relative-caret-position="1346">
               <caret line="123" column="116" lean-forward="false" selection-start-line="123" selection-start-column="116" selection-end-line="123" selection-end-column="116" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qiongzhou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Works/qiongzhou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="789">
+              <caret line="131" column="20" lean-forward="false" selection-start-line="131" selection-start-column="20" selection-end-line="134" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -190,11 +207,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloseToIt.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CloseToIt.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Works/CloseToIt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2170">
-              <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="41" />
+            <state relative-caret-position="692">
+              <caret line="142" column="26" lean-forward="false" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -203,8 +220,8 @@
       <file leaf-file-name="works.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="77" column="75" lean-forward="false" selection-start-line="77" selection-start-column="75" selection-end-line="77" selection-end-column="75" />
+            <state relative-caret-position="961">
+              <caret line="85" column="71" lean-forward="false" selection-start-line="85" selection-start-column="71" selection-end-line="85" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -252,13 +269,18 @@
       <find>height: 96px;</find>
       <find>navigation-sticky-wrapper</find>
       <find>navigation</find>
+      <find>../img/works/7day/7day</find>
+      <find>Eternal Seven Days 2016 Single Channel Video Shot by iPhone 6 Color/Sound/7'06</find>
       <find>../img/works/gift/gift</find>
+      <find>img/works/close_to_it/close_to_it</find>
     </findStrings>
     <replaceStrings>
       <replace>/br</replace>
       <replace>span&gt;</replace>
       <replace>div</replace>
+      <replace>Romance of Qiong Zhou 2016 Single Channel Video Shot by iPhone 6 Color/Sound/3'12&quot;</replace>
       <replace>../img/works/7day/7day</replace>
+      <replace>../img/works/qiongzhou/qiongzhou</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -286,11 +308,12 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/Works/CloseToIt.html" />
         <option value="$PROJECT_DIR$/Works/gift.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/works.html" />
         <option value="$PROJECT_DIR$/Works/7day.html" />
+        <option value="$PROJECT_DIR$/works.html" />
+        <option value="$PROJECT_DIR$/Works/qiongzhou.html" />
+        <option value="$PROJECT_DIR$/Works/CloseToIt.html" />
       </list>
     </option>
   </component>
@@ -430,7 +453,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="7day" />
+              <option name="myItemId" value="qiongzhou" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -575,7 +598,7 @@
       <workItem from="1482845342759" duration="3988000" />
       <workItem from="1482928879603" duration="6419000" />
       <workItem from="1483058610358" duration="5000" />
-      <workItem from="1483528223716" duration="1278000" />
+      <workItem from="1483528223716" duration="2760000" />
     </task>
     <task id="LOCAL-00001" summary="20160726">
       <created>1469524143325</created>
@@ -682,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482938298028</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="7days">
+      <created>1483529512732</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1483529512732</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66571000" />
+    <option name="totallyTimeSpent" value="68053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -756,21 +786,14 @@
     <MESSAGE value="2016-10-10" />
     <MESSAGE value="2016-11-22" />
     <MESSAGE value="样式修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="样式修改" />
+    <MESSAGE value="7days" />
+    <option name="LAST_COMMIT_MESSAGE" value="7days" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/cloud/cloud.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1097,14 +1120,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Works/CloseToIt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2170">
-          <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Works/gift.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
@@ -1134,21 +1149,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="77" column="75" lean-forward="false" selection-start-line="77" selection-start-column="75" selection-end-line="77" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Works/7day.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
+        <state relative-caret-position="1346">
           <caret line="123" column="116" lean-forward="false" selection-start-line="123" selection-start-column="116" selection-end-line="123" selection-end-column="116" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="85" column="71" lean-forward="false" selection-start-line="85" selection-start-column="71" selection-end-line="85" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works/qiongzhou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="131" column="20" lean-forward="false" selection-start-line="131" selection-start-column="20" selection-end-line="134" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works/CloseToIt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="142" column="26" lean-forward="false" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
