@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fa5f7cc-cc03-4fc9-a0fd-a6576d2d962c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/room/room_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/room.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/works/night/night_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Works/night.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/room.html" afterPath="$PROJECT_DIR$/Works/room.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works.html" afterPath="$PROJECT_DIR$/works.html" />
     </list>
     <ignored path="wangman.iws" />
@@ -173,16 +174,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -219,7 +210,17 @@
         <entry file="file://$PROJECT_DIR$/Works/room.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="509">
-              <caret line="123" column="72" lean-forward="false" selection-start-line="123" selection-start-column="72" selection-end-line="123" selection-end-column="72" />
+              <caret line="123" column="38" lean-forward="false" selection-start-line="123" selection-start-column="38" selection-end-line="123" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="night.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Works/night.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="130" column="39" lean-forward="false" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -228,8 +229,8 @@
       <file leaf-file-name="works.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="99" column="110" lean-forward="true" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
+            <state relative-caret-position="-992">
+              <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -268,6 +269,7 @@
       <find>../img/works/qiongzhou/qiongzhou</find>
       <find>Romance of Qiong Zhou 2016 Single Channel Video Shot by iPhone 6 Color/Sound/3'12</find>
       <find>img/works/qiongzhou/qiongzhou</find>
+      <find>Room73201 2015 Photography（Series 1-70） Inkjet print on archival paper</find>
     </findStrings>
     <replaceStrings>
       <replace>/br</replace>
@@ -279,6 +281,8 @@
       <replace>../img/works/room/room</replace>
       <replace>Room73201 2015 Photography（Series 1-70） Inkjet print on archival paper</replace>
       <replace>img/works/room/room</replace>
+      <replace>img/works/night/night</replace>
+      <replace>Night(5-4) 2014-2015 Photography</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -312,6 +316,7 @@
         <option value="$PROJECT_DIR$/Works/qiongzhou.html" />
         <option value="$PROJECT_DIR$/Works/CloseToIt.html" />
         <option value="$PROJECT_DIR$/works.html" />
+        <option value="$PROJECT_DIR$/Works/night.html" />
         <option value="$PROJECT_DIR$/Works/room.html" />
       </list>
     </option>
@@ -398,20 +403,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -431,6 +422,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="night" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -575,7 +588,7 @@
       <workItem from="1482845342759" duration="3988000" />
       <workItem from="1482928879603" duration="6419000" />
       <workItem from="1483058610358" duration="5000" />
-      <workItem from="1483528223716" duration="3966000" />
+      <workItem from="1483528223716" duration="5634000" />
     </task>
     <task id="LOCAL-00001" summary="20160726">
       <created>1469524143325</created>
@@ -696,18 +709,25 @@
       <option name="project" value="LOCAL" />
       <updated>1483531201759</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="room">
+      <created>1483532392916</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1483532392916</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69259000" />
+    <option name="totallyTimeSpent" value="70927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16931638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1645469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1645469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -772,27 +792,14 @@
     <MESSAGE value="样式修改" />
     <MESSAGE value="7days" />
     <MESSAGE value="琼州罗曼史" />
-    <option name="LAST_COMMIT_MESSAGE" value="琼州罗曼史" />
+    <MESSAGE value="room" />
+    <option name="LAST_COMMIT_MESSAGE" value="room" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1427#1433#0" expanded="true" />
-            <element signature="e#1433#1439#0" expanded="true" />
-            <element signature="e#1500#1506#0" expanded="true" />
-            <element signature="e#1506#1512#0" expanded="true" />
-            <element signature="e#11862#11868#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/cloud/Detector.js" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1161,8 +1168,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="99" column="110" lean-forward="true" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
+        <state relative-caret-position="-992">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Works/night.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="130" column="39" lean-forward="false" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1170,7 +1185,7 @@
     <entry file="file://$PROJECT_DIR$/Works/room.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
-          <caret line="123" column="72" lean-forward="false" selection-start-line="123" selection-start-column="72" selection-end-line="123" selection-end-column="72" />
+          <caret line="123" column="38" lean-forward="false" selection-start-line="123" selection-start-column="38" selection-end-line="123" selection-end-column="38" />
           <folding />
         </state>
       </provider>
