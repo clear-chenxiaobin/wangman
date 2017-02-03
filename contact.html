@@ -79,25 +79,25 @@
 
                     <p>E-mail:<a href="mailto:1482171246@qq.com" >1482171246@qq.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:18621970991@163.com" >18621970991@163.com</a></p>
                 </div>
-                <form id="contact-form" action="mailto:1482171246@qq.com" enctype="multipart/form-data">
-                    <div class="row marginbot-20">
-                        <div class="col-md-6 xs-marginbot-20">
-                            <input type="text" class="form-control input-lg" id="name" placeholder="Enter name"
-                                   required="required"/>
-                        </div>
-                        <div class="col-md-6">
-                            <input type="email" class="form-control input-lg" id="email" placeholder="Enter email"
-                                   required="required"/>
-                        </div>
-                    </div>
+                <form id="contact-form" action="mailto:1482171246@qq.com" enctype="multipart/form-data" method="get">
+                    <!--<div class="row marginbot-20">-->
+                        <!--<div class="col-md-6 xs-marginbot-20">-->
+                            <!--<input type="text" class="form-control input-lg" id="name" placeholder="Enter name"-->
+                                   <!--required="required"/>-->
+                        <!--</div>-->
+                    <!--</div>-->
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control input-lg" id="subject" placeholder="Subject"
+                                <input type="text" class="form-control input-lg" id="name" placeholder="Enter name"
                                        required="required"/>
                             </div>
                             <div class="form-group">
-                                <textarea name="message" id="message" class="form-control" rows="4" cols="25"
+                                <input type="text" name="subject" class="form-control input-lg" id="subject" placeholder="Subject"
+                                       required="required"/>
+                            </div>
+                            <div class="form-group">
+                                <textarea name="body" id="message" class="form-control" rows="4" cols="25"
                                           required="required" placeholder="Message"></textarea>
                             </div>
                             <button type="submit" class="btn btn-skin btn-lg btn-block" id="btnContactUs">
