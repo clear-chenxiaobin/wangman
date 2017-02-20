@@ -27,12 +27,12 @@ $(function () {
     var uulanguage = (navigator.language || navigator.browserLanguage).toLowerCase();
 
     if (uulanguage.indexOf("en") > -1) {
-        $("[data-localize]").localize("text", {pathPrefix: "/wangman/lang", language: "en"});
+        $("[data-localize]").localize("text", {pathPrefix: "/lang", language: "en"});
     }
     else if (uulanguage.indexOf("zh") > -1) {
-        $("[data-localize]").localize("text", {pathPrefix: "/wangman/lang", language: "zh"});
+        $("[data-localize]").localize("text", {pathPrefix: "/lang", language: "zh"});
     } else {
-        $("[data-localize]").localize("text", {pathPrefix: "/wangman/lang", language: "en"});
+        $("[data-localize]").localize("text", {pathPrefix: "/lang", language: "en"});
     };
 
     if (getCookie(name) != "") {

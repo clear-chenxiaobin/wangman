@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fa5f7cc-cc03-4fc9-a0fd-a6576d2d962c" name="Default" comment="多语言">
+    <list default="true" id="3fa5f7cc-cc03-4fc9-a0fd-a6576d2d962c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/7day.html" afterPath="$PROJECT_DIR$/Works/7day.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/CloseToIt.html" afterPath="$PROJECT_DIR$/Works/CloseToIt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/foreworld.html" afterPath="$PROJECT_DIR$/Works/foreworld.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/gift.html" afterPath="$PROJECT_DIR$/Works/gift.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/mystrious.html" afterPath="$PROJECT_DIR$/Works/mystrious.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/night.html" afterPath="$PROJECT_DIR$/Works/night.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/qiongzhou.html" afterPath="$PROJECT_DIR$/Works/qiongzhou.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/rainbow.html" afterPath="$PROJECT_DIR$/Works/rainbow.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/room.html" afterPath="$PROJECT_DIR$/Works/room.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Works/winding.html" afterPath="$PROJECT_DIR$/Works/winding.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/language_cookie.js" afterPath="$PROJECT_DIR$/js/language_cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/text-en.json" afterPath="$PROJECT_DIR$/lang/text-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/text-zh.json" afterPath="$PROJECT_DIR$/lang/text-zh.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works.html" afterPath="$PROJECT_DIR$/works.html" />
     </list>
     <ignored path="wangman.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,44 +16,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="text-zh.json" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/lang/text-zh.json">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="335">
-                    <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="8" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="text-en.json" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/lang/text-en.json">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="601">
-                    <caret line="84" column="2" lean-forward="false" selection-start-line="84" selection-start-column="2" selection-end-line="85" selection-end-column="464" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -220,11 +168,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="room.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="room.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Works/room.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1051">
-              <caret line="144" column="7" lean-forward="true" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+            <state relative-caret-position="855">
+              <caret line="137" column="39" lean-forward="true" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -250,11 +198,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="language_cookie.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="language_cookie.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/language_cookie.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="42" column="77" lean-forward="false" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
+            <state relative-caret-position="896">
+              <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
               <folding>
                 <element signature="e#0#49#0" expanded="false" />
               </folding>
@@ -358,12 +306,12 @@
         <option value="$PROJECT_DIR$/Works/rainbow.html" />
         <option value="$PROJECT_DIR$/Works/gift.html" />
         <option value="$PROJECT_DIR$/Works/winding.html" />
-        <option value="$PROJECT_DIR$/js/language_cookie.js" />
         <option value="$PROJECT_DIR$/lang/text-en.json" />
         <option value="$PROJECT_DIR$/Works/night.html" />
         <option value="$PROJECT_DIR$/lang/text-zh.json" />
         <option value="$PROJECT_DIR$/works.html" />
         <option value="$PROJECT_DIR$/Works/room.html" />
+        <option value="$PROJECT_DIR$/js/language_cookie.js" />
       </list>
     </option>
   </component>
@@ -420,20 +368,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Works" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -600,7 +534,7 @@
       <workItem from="1483619309702" duration="1759000" />
       <workItem from="1483621080334" duration="599000" />
       <workItem from="1483621984819" duration="191000" />
-      <workItem from="1487590688539" duration="12967000" />
+      <workItem from="1487590688539" duration="13404000" />
     </task>
     <task id="LOCAL-00001" summary="20160726">
       <created>1469524143325</created>
@@ -812,11 +746,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487601079045</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="多语言">
+      <created>1487603939916</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1487603939916</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90363000" />
+    <option name="totallyTimeSpent" value="90800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1223,16 +1164,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/language_cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="42" column="77" lean-forward="false" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Works/gift.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -1245,14 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="601">
           <caret line="84" column="2" lean-forward="false" selection-start-line="84" selection-start-column="2" selection-end-line="85" selection-end-column="464" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lang/text-zh.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1273,11 +1196,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lang/text-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Works/room.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1051">
-          <caret line="144" column="7" lean-forward="true" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+        <state relative-caret-position="855">
+          <caret line="137" column="39" lean-forward="true" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/language_cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
