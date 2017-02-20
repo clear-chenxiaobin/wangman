@@ -39,11 +39,10 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="../index.html" class="btn-2">Home</a></li>
-                            <li><a href="../about.html" class="btn-2">About</a></li>
-                            <!--<li><a href="../index.html#service" class="btn-2">Services</a></li>-->
-                            <li><a href="../works.html" class="btn-2">Works</a></li>
-                            <li><a href="../contact.html" class="btn-2">Contact</a></li>
+                            <li><a href="../index.html" class="btn-2" data-localize="Home">Home</a></li>
+                            <li><a href="../about.html" class="btn-2" data-localize="About">About</a></li>
+                            <li class="active"><a href="../works.html" class="btn-2" data-localize="Works">Works</a></li>
+                            <li><a href="../contact.html" class="btn-2" data-localize="Contact">Contact</a></li>
                         </ul>
                     </div>
                     <!-- /.Navbar-collapse -->
@@ -62,24 +61,20 @@
         <div class="row animatedParent">
             <div>
                 <div>
-                    <h3>Eternal Seven Days, 2016</h3>
+                    <h3 data-localize="Eternal Seven Days, 2016">Eternal Seven Days, 2016</h3>
                 </div>
                 <div class="col-lg-5">
                     <img src="../img/works/7day/7day.jpg" style="width: 100%">
                 </div>
                 <div class="col-lg-7 text-left">
-                    <h5>Description:</h5>
-                    Eternal Seven Days documents a holiday that my lover and I spent in Yunnan Province. I used my
-                    phone to record this second travel series. Taking things as they came, and shooting as we went, we took
-                    in the Cang Shang Erhai Lake, as well as each sunrise and sunset, the moonlight over the water, and its
-                    sparkling reflection. It was as if we were in a dream, separated from the world by a thin veil. Love can be
-                    hypnotizing, it can also bring sadness, but for those richly delicate seven days, love is eternal.
+                    <h5 data-localize="Description:">Description:</h5>
+                    <span data-localize="Eternal Seven Days, 2016 content">Eternal Seven Days documents a holiday that my lover and I spent in Yunnan Province. I used my phone to record this second travel series. Taking things as they came, and shooting as we went, we took in the Cang Shang Erhai Lake, as well as each sunrise and sunset, the moonlight over the water, and its sparkling reflection. It was as if we were in a dream, separated from the world by a thin veil. Love can be hypnotizing, it can also bring sadness, but for those richly delicate seven days, love is eternal.</span>
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-12 margintop-50">
                 <div class="row gallery-item box-works-pic-row">
                     <div>
-                        <p><b>Selected images</b></p>
+                        <p><b data-localize="Selected images">Selected images</b></p>
                         <br>
                     </div>
                     <div class="col-md-3 animated">
@@ -144,5 +139,8 @@
 <script src="../js/nivo-lightbox.min.js"></script>
 <script src="../js/custom.js"></script>
 <script src="../js/css3-animate-it.js"></script>
+<!-- 多语言 -->
+<script src="../js/jquery.localize.js"></script>
+<script src="../js/language_cookie.js"></script>
 </body>
 </html>

@@ -39,11 +39,10 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="../index.html" class="btn-2">Home</a></li>
-                            <li><a href="../about.html" class="btn-2">About</a></li>
-                            <!--<li><a href="../index.html#service" class="btn-2">Services</a></li>-->
-                            <li><a href="../works.html" class="btn-2">Works</a></li>
-                            <li><a href="../contact.html" class="btn-2">Contact</a></li>
+                            <li><a href="../index.html" class="btn-2" data-localize="Home">Home</a></li>
+                            <li><a href="../about.html" class="btn-2" data-localize="About">About</a></li>
+                            <li class="active"><a href="../works.html" class="btn-2" data-localize="Works">Works</a></li>
+                            <li><a href="../contact.html" class="btn-2" data-localize="Contact">Contact</a></li>
                         </ul>
                     </div>
                     <!-- /.Navbar-collapse -->
@@ -62,26 +61,20 @@
         <div class="row animatedParent">
             <div>
                 <div>
-                    <h3>The winding path, 2016</h3>
+                    <h3 data-localize="The winding path, 2016">The winding path, 2016</h3>
                 </div>
                 <div class="col-lg-5">
                     <img src="../img/works/winding/winding_2.jpg" style="width: 100%">
                 </div>
                 <div class="col-lg-7 text-left">
-                    <h5>Description:</h5>
-                    The work Room73201 took place at Wang Man's 26th birthday party, where the artist invited his
-                    frirends to cross-dress, assuming the roles of their own individual desires. After the party began, wearing
-                    different styles of dress and under the influence of alcohol and music, everyone began to enter a kind
-                    of "manic-state", distinctive from their usual everyday selves. Cameras captured the each and every
-                    vivid and absurd moment from virtually every angle. Using their own private lives as a deliberate point
-                    of departure, the artist and his friends allowed for a natural state of so-called "queer culture" culture to
-                    develop in Shanghai, this Asian metropolis.
+                    <h5 data-localize="Description:">Description:</h5>
+                    <span data-localize="The winding path, 2016 content">It was by a matter of chance that I recorded this work. Three kites were flying amidst the gray and cloudy sky. At certain moments, they danced, at others, they gently swayed in the wind. The kites flew together, and then become disordered, displaying a unique kaleidoscopic frame of movement. I became transfixed. The freedom and elegance of the kites made them appear almost as if they were aware-beings. However, at the same time, it also made me feel depressed, as below this expression of freedom was a socalled \"line,\" functioning as a restraint, binding, yet perhaps even more so, an object of fate. In this way, the three kites depict the trajectory of wind and freedom, but also the trajectory of human life.</span>
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-12 margintop-50">
                 <div class="row gallery-item box-works-pic-row">
                     <div>
-                        <p><b>Selected images</b></p>
+                        <p><b data-localize="Selected images">Selected images</b></p>
                         <br>
                     </div>
                     <div class="col-md-3 animated">
@@ -95,7 +88,7 @@
                 <!-- 现场 -->
                 <div class="row gallery-item box-works-pic-row">
                     <div>
-                        <p><b>Exhibition View</b></p>
+                        <p><b data-localize="Exhibition View">Exhibition View</b></p>
                         <br>
                     </div>
                     <div class="col-md-12 animated">
@@ -123,5 +116,8 @@
 <script src="../js/nivo-lightbox.min.js"></script>
 <script src="../js/custom.js"></script>
 <script src="../js/css3-animate-it.js"></script>
+<!-- 多语言 -->
+<script src="../js/jquery.localize.js"></script>
+<script src="../js/language_cookie.js"></script>
 </body>
 </html>

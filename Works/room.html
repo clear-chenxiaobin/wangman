@@ -39,11 +39,10 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="../index.html" class="btn-2">Home</a></li>
-                            <li><a href="../about.html" class="btn-2">About</a></li>
-                            <!--<li><a href="../index.html#service" class="btn-2">Services</a></li>-->
-                            <li><a href="../works.html" class="btn-2">Works</a></li>
-                            <li><a href="../contact.html" class="btn-2">Contact</a></li>
+                            <li><a href="../index.html" class="btn-2" data-localize="Home">Home</a></li>
+                            <li><a href="../about.html" class="btn-2" data-localize="About">About</a></li>
+                            <li class="active"><a href="../works.html" class="btn-2" data-localize="Works">Works</a></li>
+                            <li><a href="../contact.html" class="btn-2" data-localize="Contact">Contact</a></li>
                         </ul>
                     </div>
                     <!-- /.Navbar-collapse -->
@@ -62,26 +61,20 @@
         <div class="row animatedParent">
             <div>
                 <div>
-                    <h3>Room 73201, 2015</h3>
+                    <h3 data-localize="Room 73201, 2015">Room 73201, 2015</h3>
                 </div>
                 <div class="col-lg-5">
                     <img src="../img/works/room/room.jpg" style="width: 100%">
                 </div>
                 <div class="col-lg-7 text-left">
-                    <h5>Description:</h5>
-                    The work Room73201 took place at Wang Man's 26th birthday party, where the artist invited his
-                    frirends to cross-dress, assuming the roles of their own individual desires. After the party began, wearing
-                    different styles of dress and under the influence of alcohol and music, everyone began to enter a kind
-                    of "manic-state", distinctive from their usual everyday selves. Cameras captured the each and every
-                    vivid and absurd moment from virtually every angle. Using their own private lives as a deliberate point
-                    of departure, the artist and his friends allowed for a natural state of so-called "queer culture" culture to
-                    develop in Shanghai, this Asian metropolis.
+                    <h5 data-localize="Description:">Description:</h5>
+                    <span data-localize="Room 73201, 2015 content">The work Room 73201 took place at Wang Man's 26th birthday party, where the artist invited his frirends to cross-dress, assuming the roles of their own individual desires. After the party began, wearing different styles of dress and under the influence of alcohol and music, everyone began to enter a kind of "manic-state", distinctive from their usual everyday selves. Cameras captured the each and every vivid and absurd moment from virtually every angle. Using their own private lives as a deliberate point of departure, the artist and his friends allowed for a natural state of so-called "queer culture" culture to develop in Shanghai, this Asian metropolis.</span>
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-12 margintop-50">
                 <div class="row gallery-item box-works-pic-row">
                     <div>
-                        <p><b>Selected images</b></p>
+                        <p><b data-localize="Selected images">Selected images</b></p>
                         <br>
                     </div>
                     <div class="col-md-3 animated">
@@ -116,7 +109,7 @@
                 <!-- 现场 -->
                 <div class="row gallery-item box-works-pic-row">
                     <div>
-                        <p><b>Exhibition View</b></p>
+                        <p><b data-localize="Exhibition View">Exhibition View</b></p>
                         <br>
                     </div>
                     <div class="col-md-12 animated">
@@ -144,5 +137,9 @@
 <script src="../js/nivo-lightbox.min.js"></script>
 <script src="../js/custom.js"></script>
 <script src="../js/css3-animate-it.js"></script>
+<!-- 多语言 -->
+<script src="../js/jquery.localize.js"></script>
+<script src="../js/language_cookie.js"></script>
+
 </body>
 </html>
