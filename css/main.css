@@ -106,3 +106,8 @@ body {
 .close-to-it-xcPic img {
     width: 100%;
 }
+
+#ddlSomoveLanguage {
+    background-color: #404040;
+    color: #fff;
+}
