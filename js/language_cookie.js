@@ -37,10 +37,10 @@ $(function () {
 
     if (getCookie(name) != "") {
         if (getCookie(name) == "zh") {
-            $("[data-localize]").localize("text", {pathPrefix: "/wangman/lang", language: "zh"});
+            $("[data-localize]").localize("text", {pathPrefix: "/lang", language: "zh"});
         }
         if (getCookie(name) == "en") {
-            $("[data-localize]").localize("text", {pathPrefix: "/wangman/lang", language: "en"});
+            $("[data-localize]").localize("text", {pathPrefix: "/lang", language: "en"});
         }
 
     }
